@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * main - ttest function for positive or negative
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
